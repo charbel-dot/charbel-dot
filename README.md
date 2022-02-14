@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C language 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning C language
 - 📫 How to reach me: charbelnasseh@hotmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I play darbuka
